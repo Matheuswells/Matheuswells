@@ -8,6 +8,8 @@ Welcome to my GitHub! I'm Matheus, fullstack developer focused on web and mobile
 ☕ Get in touch
 
 👩‍💻 I'm working on
+ - Personal projects and my portfolio website. 
+ - Media Solutions
 
 ✔️ I'm currently learning
 

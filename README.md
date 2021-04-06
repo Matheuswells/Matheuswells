@@ -1,4 +1,4 @@
-<div align="center">
+
  
 ## Hi, I'm Matheus 😃
 
@@ -20,4 +20,3 @@ Welcome to my GitHub! I'm Matheus, fullstack developer focused on web and mobile
  
  ![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=OdilonDamasceno&layout=compact)
  
- <div/>

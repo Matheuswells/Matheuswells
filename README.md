@@ -9,8 +9,8 @@ Welcome to my GitHub! I'm Matheus, fullstack developer focused on web and mobile
 
 [![twitch](https://img.shields.io/twitch/status/grizzyrp?style=for-the-badge)](https://twitch.tv/grizzyrp)
 [![ig](https://img.shields.io/badge/-Instagram-red?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/matheuswells)
-[![linkedin](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/in/matheuscoutinho-dev/)
-[![discord](https://img.shields.io/badge/-Discord-grey?style=for-the-badge&logo=instagram&logoColor=white)](https://discord.gg/EEPMtv8)
+[![linkedin](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheuscoutinho-dev/)
+[![discord](https://img.shields.io/badge/-Discord-grey?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/EEPMtv8)
 
 
 

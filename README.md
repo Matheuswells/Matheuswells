@@ -2,7 +2,7 @@
  
 ## Hi, I'm Matheus 😃
 
-Welcome to my GitHub! I'm Matheus, fullstack developer focused on web and mobile apps
+Welcome to my GitHub!, Fullstack developer focused on web and mobile apps
 
 
 ☕ Get in touch

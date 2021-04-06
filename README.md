@@ -9,6 +9,8 @@ Welcome to my GitHub! I'm Matheus, fullstack developer focused on web and mobile
 
 [![twitch](https://img.shields.io/twitch/status/grizzyrp?style=for-the-badge)](https://twitch.tv/grizzyrp)
 [![ig](https://img.shields.io/badge/-Instagram-red?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/matheuswells)
+[![linkedin](https://img.shields.io/badge/-Linkedin-bluestyle=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/in/matheuscoutinho-dev/)
+
 
 👩‍💻 I'm working on
  - Personal projects and my portfolio website. 

@@ -26,5 +26,5 @@ Welcome to my GitHub!, Fullstack developer focused on web and mobile apps
  ![github](https://img.shields.io/github/followers/matheuswells?style=for-the-badge)
  
  ![stats](https://github-readme-stats.vercel.app/api?username=matheuswells&show_icons=true&theme=light)
- ![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuswells&layout=large)
+ ![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuswells&layout=compact)
  

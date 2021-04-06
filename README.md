@@ -6,7 +6,8 @@ Welcome to my GitHub! I'm Matheus, fullstack developer focused on web and mobile
 
 
 ☕ Get in touch
-
+[![twitch](https://img.shields.io/twitch/status/grizzyrp?style=for-the-badge)](twitch.tv/grizzyrp)
+[![ig](https://img.shields.io/badge/-Instagram-red?style=for-the-badge&logo=instagram&logoColor=white)](instagram.com/matheuswells)
 👩‍💻 I'm working on
  - Personal projects and my portfolio website. 
  - Media Solutions

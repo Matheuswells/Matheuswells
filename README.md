@@ -10,7 +10,7 @@ Welcome to my GitHub!
  - 🏖️ I love summer
  - 🐩🐶 I have 2 dogs
 
-I'm a Fullstack developer focused on web and mobile apps and so exited in work with newest and smart technologies
+I'm a Fullstack developer focused on web and mobile development, excited in work with newest and smart technologies!
 
 ### ☕ Get in touch
 

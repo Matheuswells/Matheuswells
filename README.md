@@ -42,7 +42,7 @@ I'm a Fullstack developer focused on web and mobile development, excited in work
  
 ---
 
-### How to reach me
+### 🔥 How to reach me
  - 📧 Mail: matheuswt0@gmail.com
  - 🎧 Discord: Grizzy#7294
  - 📷 Instagram: @matheuswells

@@ -40,3 +40,11 @@ I'm a Fullstack developer focused on web and mobile development, excited in work
  ![stats](https://github-readme-stats.vercel.app/api?username=matheuswells&show_icons=true&theme=light)
  ![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuswells&layout=compact&theme=light)
  
+---
+
+### How to reach me
+ - 📧 Mail: matheuswt0@gmail.com
+ - 🎧 Discord: Grizzy#7294
+ - 📷 Instagram: matheuswells
+ - 📱 Telegram/WhatsApp : +55 86 99555 8771
+ 

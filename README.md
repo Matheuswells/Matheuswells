@@ -28,7 +28,7 @@ Welcome to my GitHub!, Fullstack developer focused on web and mobile apps
 [![React.js](https://img.shields.io/badge/-React.js-blue?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org) [![Gulp](https://img.shields.io/badge/-Gulp-red?style=for-the-badge&logo=gulp&logoColor=white)](https://gulpjs.com) [![redux](https://img.shields.io/badge/-Redux-blueviolet?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org)
 
 ### Github Stats
- ![follows](https://img.shields.io/github/followers/matheuswells?style=for-the-badge) ![stars](https://img.shields.io/github/stars/matheuswells?style=for-the-badge) 
+ ![pro](https://img.shields.io/badge/-PRO-blueviolet?style=for-the-badge&logo=github) ![follows](https://img.shields.io/github/followers/matheuswells?style=for-the-badge) ![stars](https://img.shields.io/github/stars/matheuswells?style=for-the-badge) 
  
  ![stats](https://github-readme-stats.vercel.app/api?username=matheuswells&show_icons=true&theme=light)
  ![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuswells&layout=compact&theme=light)

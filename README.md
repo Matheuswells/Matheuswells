@@ -2,8 +2,15 @@
  
 ## Hi, I'm Matheus 😃
 
-Welcome to my GitHub!, Fullstack developer focused on web and mobile apps
+Welcome to my GitHub!
 
+### 💻 A little about me
+ - 🇧🇷 Brazilian guy 
+ - 👶 Birthday 11.16.1999
+ - 🏖️ I love summer
+ - 🐩🐶 I have 2 dogs
+
+I'm a Fullstack developer focused on web and mobile apps and so exited in work with newest and smart technologies
 
 ### ☕ Get in touch
 

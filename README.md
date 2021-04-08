@@ -5,7 +5,7 @@
 Welcome to my GitHub!, Fullstack developer focused on web and mobile apps
 
 
-## ☕ Get in touch
+### ☕ Get in touch
 
 [![twitch](https://img.shields.io/twitch/status/grizzyrp?style=for-the-badge)](https://twitch.tv/grizzyrp)
 [![ig](https://img.shields.io/badge/-Instagram-red?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/matheuswells)

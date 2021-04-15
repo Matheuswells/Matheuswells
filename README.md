@@ -34,7 +34,7 @@ I'm a Fullstack developer focused on web and mobile development, excited in work
 
 ### ✔️ I'm currently learning
 
-[![React.js](https://img.shields.io/badge/-React.js-blue?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org) [![Gulp](https://img.shields.io/badge/-Gulp-red?style=for-the-badge&logo=gulp&logoColor=white)](https://gulpjs.com) [![redux](https://img.shields.io/badge/-Redux-blueviolet?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org) [![typescript](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![React.js](https://img.shields.io/badge/-React.js-blue?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org) [![Gulp](https://img.shields.io/badge/-Gulp-red?style=for-the-badge&logo=gulp&logoColor=white)](https://gulpjs.com) [![redux](https://img.shields.io/badge/-Redux-blueviolet?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org) [![typescript](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org) [![django](https://img.shields.io/badge/-Django-orange?style=for-the-badge&logo=django&logoColors=white)](https://www.djangoproject.com) [![python](https://img.shields.io/badge/-Python-green?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 
 ### Github Stats
  ![pro](https://img.shields.io/badge/-PRO-blueviolet?style=for-the-badge&logo=github) ![follows](https://img.shields.io/github/followers/matheuswells?style=for-the-badge) ![stars](https://img.shields.io/github/stars/matheuswells?style=for-the-badge) 

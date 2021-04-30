@@ -10,7 +10,7 @@ Welcome to my GitHub!
  - 🏖️ I love summer
  - 🐩🐶 I have 2 dogs
 
-I'm a Fullstack developer focused on web and mobile development, excited in work with newest and smart technologies!
+  FullStack Developer focused on web applications and innovative solutions, excited in work with newest and smart technologies, currently interested in user experience (UI/UX), design patterns and web services. Outgoing, creative, attentive, good communication always learning something new to apply and improve my skills.
 
   Since I was a child I always wanted to know how things work and how I can modify or customize them to do what I want, and with that, I ended up creating a sense of "Solve Problems", which proved to be very useful when I started learning to program and here I start my love for a development career.
 

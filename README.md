@@ -8,7 +8,6 @@ Welcome to my GitHub!
  - 🇧🇷 Brazilian guy 
  - 👶 Birthday 11.16.1999
  - 🏖️ I love summer
- - 🐩🐶 I have 2 dogs
 
   FullStack Developer focused on web applications and innovative solutions, excited in work with newest and smart technologies, currently interested in user experience (UI/UX), design patterns and web services. Outgoing, creative, attentive, good communication always learning something new to apply and improve my skills.
 
